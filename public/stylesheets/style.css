@@ -1,5 +1,5 @@
 :root {
-    --primary: #ccdad4;
+    --primary: #bbd6c5;
     --secondary: #9caea6;
     --tertiary: #798881;
     --light-dark: #7e7775;
@@ -18,7 +18,7 @@ body {
     font-family: "IBM Plex Sans", sans-serif;
     color: var(--dark);
     line-height: 1.5;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1, h2, h3, h5, h6 {
@@ -45,6 +45,7 @@ main {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+
   }
                   
 p {
@@ -157,10 +158,15 @@ h4 {
     line-height: 1.25;
 }
 
+.li-inline {
+    justify-content: space-evenly;
+    display: inline;
+    padding: 10px;
+}
+
 .link {
     color: var(--light-dark);
-    display: inline;
-    text-decoration:none
+    text-decoration:none;
 }
 
 .login-link {
@@ -168,9 +174,9 @@ h4 {
 }
 
 .nav {
-    padding: 10px;
     line-height: 1.25;
     float: top;
+    width:100%
 }
 
 footer {
@@ -216,6 +222,7 @@ footer {
 .flex-row {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .flex-column {
