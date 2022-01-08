@@ -26,6 +26,6 @@ Links
     GitHub Repository: https://github.com/lkalickimvc-tech-blog
     </li>
     <li>
-    Heroku Application: https://git.heroku.com/lkalicki-mvc-tech-blog.git
+    Heroku Application: https://lkalicki-mvc-tech-blog.herokuapp.com/
     </li>
 </ul>
