@@ -23,7 +23,7 @@ In order to see the full capabilities of the application, as well as witness the
 Links
 <ul>
     <li>
-    GitHub Repository: https://github.com/lkalickimvc-tech-blog
+    GitHub Repository: https://github.com/lkalicki/mvc-tech-blog
     </li>
     <li>
     Heroku Application: https://lkalicki-mvc-tech-blog.herokuapp.com/
