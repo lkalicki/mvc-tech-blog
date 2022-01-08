@@ -3,7 +3,7 @@
     --secondary: #9caea6;
     --tertiary: #798881;
     --light-dark: #7e7775;
-    --dark: #0c0706;
+    --dark: #130b09;
     --border-radius: .3rem;
 }
 
@@ -30,7 +30,7 @@ h1, h2, h3, h5, h6 {
                   
 .link-color {
     color: var(--tertiary);
-    padding: 10px;
+    padding: 50px;
     margin: 10px
   }
                   
@@ -160,6 +160,7 @@ h4 {
 .link {
     color: var(--light-dark);
     display: inline;
+    text-decoration:none
 }
 
 .login-link {
